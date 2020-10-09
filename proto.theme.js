@@ -1,0 +1,21 @@
+//META{"name":"Proto theme","description":"w","author":"yaekith for the template XD","version":"1"}*//
+
+@import url(https://enhanceddiscord.com/theme.css);
+
+.theme-dark {
+    --bg: url(https://i.imgur.com/hAP5jTd.png);
+    --bg-overlay: rgba(0, 0, 0, 0.8);
+    --accent: #FADA5E;
+    --accent-bright: #f00;
+    --accent-back: #ADD8E6;
+    --accent-back-bright: rgba(255, 0, 0, 0.4);
+    --icon-color: rgba(250, 166, 26, 0.5);
+    --link-color: #faa61a;
+    --link-color-hover: #fad61a;
+    --popup-background: #222;
+    --popup-highlight: #333;
+    --unread-color: var(--accent-bright);
+    --typing-height: 25px;
+    --gift-button: none;
+    --gif-picker: flex;
+}
